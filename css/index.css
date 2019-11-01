@@ -1,0 +1,10 @@
+.layui-body{
+    background-color: #ffc !important;
+    /* margin-bottom: 60px; */
+    bottom: 0 !important;
+}
+
+.layui-tab-item{
+    width: 100% !important;
+    height: 100% !important;
+}

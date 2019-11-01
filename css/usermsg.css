@@ -1,0 +1,27 @@
+.layui-field-title {
+    margin-top: 20px;
+}
+
+.layui-form {
+    padding: 10px 30px;
+}
+
+.layui-form .box #selIpt {
+    width: 250px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.layui-form .box #selUser {
+    margin-left: 20px;
+}
+
+.layui-form .box #addUser {
+    position: absolute;
+    right: 30px;
+}
+
+#demo7 {
+    float: right;
+    margin: 20px 0;
+}

@@ -1,0 +1,66 @@
+.layui-field-title {
+    margin-top: 20px;
+}
+
+.layui-form {
+    padding: 10px 30px;
+}
+
+.layui-form .box #selIpt {
+    width: 250px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.layui-form .box #selUser {
+    margin-left: 20px;
+}
+
+.layui-form .box #addUser {
+    position: absolute;
+    right: 30px;
+}
+
+#demo7 {
+    float: right;
+    margin: 20px 0;
+}
+
+/* addUser rewUser弹出层 S*/
+#add,
+#rew {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#add .user,
+#rew .user {
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+}
+
+#add .username1,
+#rew .username2 {
+    width: 200px;
+    height: 25px;
+    margin: 30px 0 0 10px;
+    padding: 0 auto
+}
+
+#add .pwd,
+#rew .pwd {
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+}
+
+#add .password1,
+#rew .password2 {
+    width: 200px;
+    height: 25px;
+    margin: 30px 0 0 10px;
+    padding: 0 auto;
+}
+
+/* addUser rewUser弹出层 E*/
